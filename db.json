@@ -1,0 +1,96 @@
+{
+  "profesores": [
+    {
+      "nombre": "José Luis",
+      "apellido": "Ramírez Ramírez",
+      "materias": [
+        {
+          "nombre": "NodeJS desde cero"
+        },
+        {
+          "nombre": "ReactJS desde cero"
+        },
+        {
+          "nombre": "JavaScript desde cero"
+        }
+      ],
+      "id": "e2bd"
+    },
+    {
+      "id": "b97c",
+      "nombre": "Gloria Josefina",
+      "apellido": "Velasquez Marchena",
+      "materias": [
+        {
+          "nombre": "Química"
+        },
+        {
+          "nombre": "Biología"
+        },
+        {
+          "nombre": "Física"
+        }
+      ]
+    },
+    {
+      "id": "d330",
+      "nombre": "Ammi Sarai",
+      "apellido": "Ramirez S",
+      "materias": [
+        {
+          "nombre": "Matemáticas"
+        },
+        {
+          "nombre": "Física"
+        }
+      ]
+    },
+    {
+      "id": "4f86",
+      "nombre": "Rita Camila",
+      "apellido": "Perez Hurtado",
+      "materias": [
+        {
+          "nombre": "Geografía"
+        },
+        {
+          "nombre": "Castellano"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Gloria",
+      "apellido": "Velasquez",
+      "promedio": 8.2,
+      "id": "4bec"
+    },
+    {
+      "nombre": "Jose Luis",
+      "apellido": "Ramirez Lunar",
+      "promedio": 6.2,
+      "id": "5248"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "2220"
+    },
+    {
+      "nombre": "ReactJS desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "fed2"
+    },
+    {
+      "nombre": "JavaScript desde cero",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "8b94"
+    }
+  ]
+}
